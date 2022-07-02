@@ -1,0 +1,2 @@
+# AisoBased_MysqlClient
+基于Asio与协程的Mysql异步客户端
