@@ -1,4 +1,4 @@
-# AisoBased_MysqlClient
+# AsioBased_MysqlClient
 基于Asio与协程的Mysql异步客户端
 ## Description
 一个基于Asio提供的CoroutineTs框架实现的Mysql异步客户端,项目依赖asio,mariadb以及gcc11, 我自己使用的版本如下:
